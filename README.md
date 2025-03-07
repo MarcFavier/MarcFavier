@@ -1,6 +1,6 @@
 - 👋Hi, I’m Marc Favier
 - 👀 I’m interested in Robotics (especially moving, legged robots), Machine learning (especially Reinforcement learning)
-- 🌱 I’m currently learning Engineering of Intelligent sSstems
+- 🌱 I’m currently learning Engineering of Intelligent systems
 - 💞️ I’m looking to collaborate on developing intelligent systems for robotics
 - 📫 How to reach me : marcfavier444@gmail.com
 
